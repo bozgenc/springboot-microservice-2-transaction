@@ -1,4 +1,4 @@
-## springboot-microservice-product
+## springboot-microservice-transaction
 
 This is a project created for educational purposes to learn spring-boot, microservices structure and cloud deployment.<br/>
 The project basically behaves as a backend side of a e-commerce website and has three microservices (product,transactions,gateway).<br/>
